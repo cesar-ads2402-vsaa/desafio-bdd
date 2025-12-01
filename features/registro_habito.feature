@@ -1,3 +1,5 @@
+# language: pt
+
 Funcionalidade: Registro diário de hábitos
   Para acompanhar minha consistência
   Como um usuário do aplicativo
