@@ -74,14 +74,16 @@ Cenário: Visualizar calendário após registro
 
 ```
 /desafio-bdd/
-  package.json
-  cucumber.js
-  README.md
-  .gitignore
   /features/
       registro_habito.feature
   /step_definitions/
       registro_habito.steps.js
+  .gitignore
+  cucumber.js
+  LICENSE
+  package-lock.json
+  package.json
+  README.md
 ```
 
 ---

@@ -1,0 +1,13 @@
+{
+  "name": "desafio-bdd",
+  "version": "1.0.0",
+  "description": "Projeto BDD usando Cucumber e Jest",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  }
+}
